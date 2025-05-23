@@ -1,0 +1,8 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: rf Village MX
+description: Espacio de exploración, aprendizaje y experimentación en el mundo de las radiofrecuencias.
+
+show_downloads: false
