@@ -1,0 +1,8 @@
+- [Platicas](https://github.com/rf-Village-MX/talks)
+- Eventos
+  - [Pwnterrey 2025](events/pwnterrey-2025)
+  - HackGDL 2025
+  - BugCON 2024
+- Redes Sociales
+  - [Instagram](https://www.instagram.com/rf_village_mx)
+  - [X](https://x.com/rf_Village_mx)
